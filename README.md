@@ -1,17 +1,12 @@
 # ぽまえ 👋
 
 はじめまして！
-
 業務系システムを中心に学習・開発しているエンジニアです。  
-
 日々の学習内容や試したことを、GitHubに少しずつ残していくためにアカウントを作成しました。
-
-
 
 ---
 
 ## 🛠 Skills
-
 - Java  
 - SQL（Oracle）  
 - JavaScript  
@@ -41,4 +36,4 @@
 - GitHub: https://github.com/Niboshi23
 
 ---
-Thanks for visiting!
+訪問ありがとうございます！
